@@ -1,0 +1,79 @@
+body{
+ background-image: url(../images/bg.jpg);
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+h1 {
+background-image: url(../images/marvelDC.jpg);
+ background-repeat: no-repeat;
+ background-size: 69%;
+ background-position: center;
+ font-style: oblique;
+ font-family: serif;
+ font-size: 8em;
+ color: GoldenRod;
+ border: 5px GoldenRod solid;
+ background-color: white;
+}
+
+h2{
+ background-image: url(../images/DCmarvel.jpg);
+ background-repeat: no-repeat;
+ background-size: 75%;
+ font-size: 4em;
+ color: teal;
+ border: 5px teal solid;
+ background-color: white;
+}
+
+
+
+div {
+ margin: 2em;
+ padding: 2em;
+ color: GoldenRod;
+ border: 5px teal solid;
+}
+
+footer{
+ margin: 2em;
+ font-size: 4em;
+ text-align: center;
+ color: WHITE;
+ border: 5px teal solid;
+}
+
+.container {
+ text-align: center;
+ padding-bottom: 15em;
+ border: 5px teal solid;
+}
+
+
+.result {
+ height: 5em;
+ width: 20em;
+ color: GoldenRod;
+}
+
+.question{
+ color: WHITE;
+ font-size: 2em;
+ font-weight: bold;
+ border: 5px teal solid;
+}
+
+#score{
+ height: 10em;
+ width: 20em;
+ color: GoldenRod;
+}
+
+
+#play {
+
+ font-family:fantasy;
+ font-weight: bold;
+ font-size: 2.5em;
+}
